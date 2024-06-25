@@ -24,3 +24,5 @@ We do a lot so here's our other stuff!
 [Mega Games GitHub](https://github.com/os-mega-games)
 
 [Mega Systems GitHub](https://github.com/mu-mega-systems)
+
+[Mega Network GitHub](https://github.com/mega-network)
